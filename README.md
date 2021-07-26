@@ -45,3 +45,21 @@ This project uses statistical analysis and visualization to leverage customer's 
 
 Hypothesis Testing, Data Visualization, Statistical Inference
 
+---
+
+### Cardio Fitness Product Analysis
+
+[Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Business_Statistics/Cardio%20Good%20Fitness%20-%20New%20customer%20targeting%20EXPLORATION%20-%20Brian%20Hall%20-%203-25-21.ipynb)
+
+[Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Business_Statistics/DSBA%20-%20Brian%20Hall%20-%20Project%201%20-%20Cardio%20Good%20Fitness.pdf)
+
+**Course - Python Foundations**
+
+Cardio fitness data of about 180 people were provided using various cardio fitness products. The objective was to study and analyze which of the products is effective in terms of fitness and usage. The project involved interpretation of statistical output to generate managerial recommendations, using regression as a prediction device and most importantly evaluating and choosing of alternative statistical models.
+
+**Skills and Tools**
+
+Missing Value Treatment, Exploratory Data Analysis, Data Visualization
+
+
+
