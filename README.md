@@ -1,6 +1,22 @@
 # Brian Hall Portfolio
  Personal and Academic Data Science & Business Analytics Portfolio
 
+[Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Bagging_Boosting/Brian%20Hall%20-%20Project%205%20-%20Visit%20With%20Us%20-%20Package%20Purchase%20-%20V2.ipynb)
+
+[Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Bagging_Boosting/DSBA%20-%20Brian%20Hall%20-%20Project%205%20-%20Tourism.pdf)
+
+**Course - Ensemble Techniques
+
+### Visit With Us Tourism Package Purchase Prediction
+
+
+Utilizing data from a previous marketing campaign analyze the customers' data and information to provide recommendations for marketing and build a model to predict the potential customer who is going to purchase a newly introduced travel package.
+
+**Skills and Tools**
+Bagging, Random Forest, Gradient Boosting, XGBoosting, Hyperparameter Tuning
+
+---
+
 ### AllLifeBank Personal Loan Campaign Modelling
 [Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/LogisticRegression_DecisionTrees/Brian%20Hall%20-%20DSBA%20-%20Project%204%20Personal%20Loan%20Campaign%20Modeling%20-%20V1.ipynb)
 
