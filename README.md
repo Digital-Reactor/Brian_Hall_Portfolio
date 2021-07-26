@@ -6,7 +6,7 @@
 
 [Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/LogisticRegression_DecisionTrees/DSBA%20-%20Brian%20Hall%20-%20Project%204%20-%20AllLife%20Bank.pdf)
 
-**Course Supervised Learning - Classification**
+**Course -  Supervised Learning - Classification**
 
 AllLifeBank dataset was used to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
 
@@ -21,10 +21,27 @@ Logistic regression, multicollinearity, finding optimal threshold using AUC-ROC 
 
 [Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Linear_Regression/DSBA%20-%20Brian%20Hall%20-%20Project%203%20-%20Cars4U.pdf)
 
-**Course Supervised Learning - Foundations**
+**Course - Supervised Learning - Foundations**
 
 Using Cars4U dataset, come up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing.
 
 **Skills and Tools**
 
-EDA, Linear regression, Linear regression assumptions, business insights and suggestions
+EDA, Linear regression, Linear regression assumptions
+
+--- 
+
+### Axis Health Insurance
+
+[Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Statistical_Analysis/Brian%20Hall%20-%20Business%20Statistics%20-%20Axis%20Insurance%20-%20Project%202%20-%20v3.ipynb)
+
+[Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Statistical_Analysis/Brian%20Hall%20-%20DSBA%20-%20Project%202%20-%20Axis%20Insurance.pdf)
+
+**Course - Business Statistics**
+
+This project uses statistical analysis and visualization to leverage customer's health information like smoking habits, BMI, age, gender, etc., and checks statistical evidences to make valuable decisions of insurance businesses like charges for health insurance.
+
+**Skills and Tools**
+
+Hypothesis Testing, Data Visualization, Statistical Inference
+
