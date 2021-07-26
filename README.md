@@ -16,7 +16,7 @@ Utilizing data from a previous marketing campaign analyze the customers' data an
 
 **Skills and Tools**
 
-Bagging, Random Forest, Gradient Boosting, XGBoosting, Hyperparameter Tuning
+Bagging, Random Forest, Gradient Boosting, XGBoosting, Stacking, Hyperparameter Tuning
 
 ---
 
