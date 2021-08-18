@@ -4,6 +4,24 @@ Personal and Academic Data Science & Business Analytics Portfolio
 ---
 ---
 
+---
+
+### Thera Bank Credit Card Users Churn Prediction
+
+[Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Pipeline%20-%20Hyperparameter%20Tuning/Brian%20Hall%20-%20Project%206%20-%20Churn%20Prediction%20-%20minmax%20test.ipynb)
+
+[Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Pipeline%20-%20Hyperparameter%20Tuning/DSBA%20-%20Brian%20Hall%20-%20Project%206%20-%20Churn%20Prediction.pdf)
+
+**Course - Hyperparameter Tuning & Pipelines**
+
+By analyzing customer data provided by Thera Bank we will develop a classification model to identify and understand customers that are likely tochurn from credit card services and make recommendations on ways to retain those customers.
+
+**Skills and Tools**
+
+Up and Down sampling, regularization, hyperparameter tuning, pipeline building
+
+---
+
 ### Visit With Us Tourism Package Purchase Prediction
 
 [Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Bagging_Boosting/Brian%20Hall%20-%20Project%205%20-%20Visit%20With%20Us%20-%20Package%20Purchase%20-%20V2.ipynb)
