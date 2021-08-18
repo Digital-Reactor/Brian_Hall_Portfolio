@@ -14,7 +14,7 @@ Personal and Academic Data Science & Business Analytics Portfolio
 
 **Course - Hyperparameter Tuning & Pipelines**
 
-By analyzing customer data provided by Thera Bank we will develop a classification model to identify and understand customers that are likely tochurn from credit card services and make recommendations on ways to retain those customers.
+By analyzing customer data provided by Thera Bank we will develop a classification model to identify and understand customers that are likely to churn from credit card services and make recommendations on ways to retain those customers.
 
 **Skills and Tools**
 
