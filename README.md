@@ -18,7 +18,7 @@ By analyzing customer data provided by Thera Bank we will develop a classificati
 
 **Skills and Tools**
 
-Up and Down sampling, regularization, hyperparameter tuning, pipeline building
+XG Boost, Gradient Boost, Random Forest, Up and Down Sampling, Regularization, Hyperparameter Tuning, Pipeline Building
 
 ---
 
