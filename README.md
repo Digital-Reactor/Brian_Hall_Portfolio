@@ -4,7 +4,23 @@ Personal and Academic Data Science & Business Analytics Portfolio
 ---
 ---
 
+### AllLife Bank Customer Segmentation
+
+[Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Clustering/Brian%20Hall%20-%20Project%207%20-%20AllLife%20Bank%20Customer%20Segmentation-V2.ipynb)
+
+[Presentation](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Clustering/DSBA%20-%20Brian%20Hall%20-%20Project%207%20-Customer%20Segmentation.pdf)
+
+**Course - Unsupervised Learning - Clustering & PCA**
+
+AllLife Bank wants to focus on its credit card customer base in the next financial year. The Marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. In addition the Operations team wants to upgrade the service delivery model, to ensure that customer queries are resolved faster.
+Using clustering algorithms identify different segments in the existing customer base, based on their spending patterns as well as past interaction with the bank and provide recommendations to the bank on how to better market to and service these customers.
+
+**Skills and Tools**
+
+K-Means Clustering, Hierarchical Clustering, Optimal Cluster Identification, Dendogram Visualization, Cluster Profiling & Visualization
+
 ---
+
 
 ### Thera Bank Credit Card Users Churn Prediction
 
