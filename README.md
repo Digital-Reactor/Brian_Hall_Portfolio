@@ -12,8 +12,7 @@ Personal and Academic Data Science & Business Analytics Portfolio
 
 **Course - Unsupervised Learning - Clustering & PCA**
 
-AllLife Bank wants to focus on its credit card customer base in the next financial year. The Marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. In addition the Operations team wants to upgrade the service delivery model, to ensure that customer queries are resolved faster.
-Using clustering algorithms identify different segments in the existing customer base, based on their spending patterns as well as past interaction with the bank and provide recommendations to the bank on how to better market to and service these customers.
+Using clustering algorithms identify different segments in the existing AllLife Bank customer base, based on their spending patterns as well as past interaction with the bank and provide recommendations to the bank on how to better market to and service these customers.
 
 **Skills and Tools**
 
