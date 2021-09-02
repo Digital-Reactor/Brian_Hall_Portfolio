@@ -1,6 +1,10 @@
 # Brian Hall Portfolio
 
-Personal and Academic Data Science & Business Analytics Portfolio
+[Personal and Academic Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
+
+[Data Analytics & Visualization](#data-analytics-and-visualization)
+
+Personal and Academic Data Science & Business Analytics
 ---
 ---
 
@@ -115,5 +119,9 @@ Cardio fitness data of about 180 people were provided using various cardio fitne
 
 Missing Value Treatment, Exploratory Data Analysis, Data Visualization
 
+---
+---
 
+## Data Analytics and Visualization
+---
 
