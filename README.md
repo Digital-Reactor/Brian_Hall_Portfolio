@@ -1,5 +1,7 @@
 # Brian Hall Portfolio
 
+[Data Analytics & Visualization](#data-analytics-and-visualization)
+
 Personal and Academic Data Science & Business Analytics Portfolio
 ---
 ---
@@ -117,7 +119,7 @@ Missing Value Treatment, Exploratory Data Analysis, Data Visualization
 
 ---
 ---
-#Data Analytics and Visualization
+
 ## Data Analytics and Visualization
 ---
 
