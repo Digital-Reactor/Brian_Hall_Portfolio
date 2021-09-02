@@ -4,6 +4,9 @@
 
 ### [Data Analytics & Visualization](#data-analytics-and-visualization)
 
+---
+---
+
 Personal and Academic Data Science & Business Analytics
 ---
 ---
