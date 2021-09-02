@@ -132,4 +132,8 @@ Analysis required a difficult merging of market, physician, patient, care teams,
 
 These visualizations showing recommended service areas were produced in Tableau Desktop.
 
-<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/NFL%20-%20top%202%20Tab.png" alt="K-Means Clusters">
+
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/NFL%20-%20top%202%20Tab.png" alt="NFL AIM Targets">
+
+
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/SFL%20-%20top%202%20Tab.png" alt="SFL AIM Targets">
