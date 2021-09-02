@@ -1,8 +1,8 @@
 # Brian Hall Portfolio
 
-[Personal and Academic Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
+### [Personal and Academic Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
 
-[Data Analytics & Visualization](#data-analytics-and-visualization)
+### [Data Analytics & Visualization](#data-analytics-and-visualization)
 
 Personal and Academic Data Science & Business Analytics
 ---
