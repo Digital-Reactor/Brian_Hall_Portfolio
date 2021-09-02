@@ -18,6 +18,8 @@ Using clustering algorithms identify different segments in the existing AllLife 
 
 K-Means Clustering, Hierarchical Clustering, Optimal Cluster Identification, Dendogram Visualization, Cluster Profiling & Visualization
 
+![K-Means Clusters](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Clustering/KM-clusters.png)
+
 ---
 
 
