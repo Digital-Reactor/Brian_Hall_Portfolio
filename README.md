@@ -116,6 +116,8 @@ This project uses statistical analysis and visualization to leverage customer's 
 
 Hypothesis Testing, Data Visualization, Statistical Inference
 
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Statistical_Analysis/charges%20-%20bmi%20-%20smoker.png" alt="Charges, BMI & Smoking">
+
 ---
 
 ### Cardio Fitness Product Analysis
