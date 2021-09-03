@@ -98,6 +98,8 @@ Using Cars4U dataset, come up with a pricing model that can effectively predict 
 
 EDA, Linear regression, Linear regression assumptions
 
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Linear_Regression/KM%20by%20Location.png" alt="KM by Location">
+
 --- 
 
 ### Axis Health Insurance
