@@ -25,7 +25,7 @@ Using clustering algorithms identify different segments in the existing AllLife 
 
 K-Means Clustering, Hierarchical Clustering, Optimal Cluster Identification, Dendogram Visualization, Cluster Profiling & Visualization
 
-<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Clustering/KM-clusters.png" alt="K-Means Clusters" width="701" height="619">
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Pipeline%20-%20Hyperparameter%20Tuning/churn_predict.png" alt="Churn Scatter">
 
 ---
 
@@ -44,6 +44,7 @@ By analyzing customer data provided by Thera Bank we will develop a classificati
 
 XG Boost, Gradient Boost, Random Forest, Up and Down Sampling, Regularization, Hyperparameter Tuning, Pipeline Building
 
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Clustering/KM-clusters.png" alt="K-Means Clusters" width="701" height="619">
 ---
 
 ### Visit With Us Tourism Package Purchase Prediction
