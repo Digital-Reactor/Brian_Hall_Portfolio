@@ -102,7 +102,7 @@ EDA, Linear regression, Linear regression assumptions
 
 --- 
 
-### Axis Health Insurance
+### Axis Health Insurance - Business Intelligence
 
 [Python Notebook](https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Statistical_Analysis/Brian%20Hall%20-%20Business%20Statistics%20-%20Axis%20Insurance%20-%20Project%202%20-%20v3.ipynb)
 
