@@ -1,13 +1,13 @@
 # Brian Hall Portfolio
 
-### [Personal and Academic Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
+### [Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
 
 ### [Data Analytics & Visualization](#data-analytics-and-visualization)
 
 ---
 ---
 
-Personal and Academic Data Science & Business Analytics
+Data Science & Business Analytics
 ---
 ---
 
@@ -43,6 +43,9 @@ By analyzing customer data provided by Thera Bank we will develop a classificati
 **Skills and Tools**
 
 XG Boost, Gradient Boost, Random Forest, Up and Down Sampling, Regularization, Hyperparameter Tuning, Pipeline Building
+
+
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Pipeline%20-%20Hyperparameter%20Tuning/churn_predict.png" alt="Churn Scatter">
 
 ---
 
