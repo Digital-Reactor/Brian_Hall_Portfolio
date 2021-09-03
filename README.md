@@ -81,6 +81,8 @@ AllLifeBank dataset was used to build a model that will help the marketing depar
 
 Logistic regression, multicollinearity, finding optimal threshold using AUC-ROC curve, Decision trees, pruning
 
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Bagging_Boosting/Income%20-%20CC%20Avg.png" alt="Income - CC Average">
+
 ---
 
 ### Cars4U Price Prediction
