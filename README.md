@@ -1,8 +1,11 @@
 # Brian Hall Portfolio
 
-[Personal and Academic Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
+### [Personal and Academic Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
 
-[Data Analytics & Visualization](#data-analytics-and-visualization)
+### [Data Analytics & Visualization](#data-analytics-and-visualization)
+
+---
+---
 
 Personal and Academic Data Science & Business Analytics
 ---
@@ -124,4 +127,16 @@ Missing Value Treatment, Exploratory Data Analysis, Data Visualization
 
 ## Data Analytics and Visualization
 ---
+### Advanced Illness Management Product Development
+Developed Advanced Illness Management product for value-based providers that addressed a $104M per year gap in care by utilizing a machine learning algorithm that allowed for early identification of patients. Developed analytics and process for targeting markets, services and teams required to serve needs.
 
+Analysis required a difficult merging of market, physician, patient, care teams, hospice & claims datasets.  
+
+
+These visualizations showing recommended service areas were produced in Tableau Desktop.  Product & Provider names have been redacted.
+
+
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/NFL%20-%20top%202%20Tab.png" alt="NFL AIM Targets">
+
+
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/SFL%20-%20top%202%20Tab.png" alt="SFL AIM Targets">
