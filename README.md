@@ -134,6 +134,8 @@ Cardio fitness data of about 180 people were provided using various cardio fitne
 
 Missing Value Treatment, Exploratory Data Analysis, Data Visualization
 
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/EDA_and_Business_Statistics/fitness%20distribution%20by%20product.png" alt="Fitness distribution by product">
+
 ---
 ---
 
