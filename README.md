@@ -63,6 +63,9 @@ Utilizing data from a previous marketing campaign analyze the customers' data an
 
 Bagging, Random Forest, Gradient Boosting, XGBoosting, Stacking, Hyperparameter Tuning
 
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Bagging_Boosting/Age%20by%20Prod.png" alt="Age by Product">
+
+
 ---
 
 ### AllLifeBank Personal Loan Campaign Modelling
