@@ -2,7 +2,7 @@
 
 ### [Data Science & Business Analytics](#personal-and-academic-data-science-&-business-analytics)
 
-### [Data Analytics & Visualization](#data-analytics-and-visualization)
+### [Data Analysis & Visualization](#data-analysis-and-visualization)
 
 ---
 ---
@@ -139,7 +139,7 @@ Missing Value Treatment, Exploratory Data Analysis, Data Visualization
 ---
 ---
 
-## Data Analytics and Visualization
+## Data Analysis and Visualization
 ---
 ### Advanced Illness Management Product Development
 Developed Advanced Illness Management product for value-based providers that addressed a $104M per year gap in care by utilizing a machine learning algorithm that allowed for early identification of patients. Developed analytics and process for targeting markets, services and teams required to serve needs.
