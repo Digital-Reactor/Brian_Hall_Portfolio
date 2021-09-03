@@ -153,7 +153,7 @@ These visualizations showing recommended service areas were produced in Tableau 
 <img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/FL%20-%20top%202%20Tab.png" alt="FL AIM Targets">
 
 
-<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/NFL%20-%20top%202%20Tab.png" alt="NFL AIM Targets">
+<img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/NFL%202%20top%202%25%20Tab.png" alt="NFL AIM Targets">
 
 
 <img src="https://github.com/Digital-Reactor/Brian_Hall_Portfolio/blob/main/Data%20Analytics%20-%20Visualization/SFL%20-%20top%202%20Tab.png" alt="SFL AIM Targets">
